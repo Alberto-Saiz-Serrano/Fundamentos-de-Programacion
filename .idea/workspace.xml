@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db544b31-5b7f-47d6-9ba6-0de639938459" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 1/Practica 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 1/src/Sesion1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 1/src/Sesion2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 1/src/Sesion3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 1/src/Sesion4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 2/Practica 2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 2/src/Sudoku.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 3/Practica 3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 3/src/ListaPersonas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 3/src/Persona.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 3/src/Sesion1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 3/src/Sesion2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica 3/src/Sesion3.java" beforeDir="false" />
-    </list>
+    <list default="true" id="db544b31-5b7f-47d6-9ba6-0de639938459" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +9,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="28Qsm8J5vIuP47zadGEzcsxLjtS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -53,7 +37,23 @@
       <workItem from="1651160395300" duration="304000" />
       <workItem from="1651160706111" duration="3000" />
       <workItem from="1651160724052" duration="2000" />
+      <workItem from="1651160919542" duration="404000" />
     </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1651161009223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651161009223</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update">
+      <created>1651161308698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651161308698</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +70,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
